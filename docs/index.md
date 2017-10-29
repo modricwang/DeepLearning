@@ -2,12 +2,12 @@
 
 ## papers
 
-[VggNet](papers/VggNet_Very_deep_convolutional_networks_for_large-scale_image_recognition.pdf)
+[VggNet](https://github.com/modricwang/DeepLearning/blob/master/papers/VggNet_Very_deep_convolutional_networks_for_large-scale_image_recognition.pdf)
 
-[GoogleNet](papers/GoogleNet_Going_Deeper_With_2015_CVPR_paper.pdf)
+[GoogleNet](https://github.com/modricwang/DeepLearning/blob/master/papers/GoogleNet_Going_Deeper_With_2015_CVPR_paper.pdf)
 
-[Mimic](papers/Mimic_Distilling_the_Knowledge_in_a_Neural_Network.pdf)
+[Mimic](https://github.com/modricwang/DeepLearning/blob/master/papers/Mimic_Distilling_the_Knowledge_in_a_Neural_Network.pdf)
 
-[R-FCN](papers/R-FCN_Object_Detection_via_Region-based_Fully_Convolutional_Networks.pdf)
+[R-FCN](https://github.com/modricwang/DeepLearning/blob/master/papers/R-FCN_Object_Detection_via_Region-based_Fully_Convolutional_Networks.pdf)
 
-[SSD](papers/SSD_Single_Shot_MultiBox_Detector.pdf)
+[SSD](https://github.com/modricwang/DeepLearning/blob/master/papers/SSD_Single_Shot_MultiBox_Detector.pdf)

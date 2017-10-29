@@ -2,8 +2,6 @@
 
 ## papers
 
-# Papers
-
 [VggNet](papers/VggNet_Very_deep_convolutional_networks_for_large-scale_image_recognition.pdf)
 
 [GoogleNet](papers/GoogleNet_Going_Deeper_With_2015_CVPR_paper.pdf)

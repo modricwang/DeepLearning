@@ -15,4 +15,4 @@
 
 [SSD](papers/SSD_Single_Shot_MultiBox_Detector.pdf)
 
-[Understanding_Black-box_Predictions_via_Influence_Functions](papers/Understanding_Black-box_Predictions_via_Influence_Functions.pdf)
+[Understanding Black-box Predictions via Influence Functions](papers/Understanding_Black-box_Predictions_via_Influence_Functions.pdf)

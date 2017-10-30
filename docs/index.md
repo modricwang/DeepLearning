@@ -14,4 +14,4 @@
 
 [SSD](https://github.com/modricwang/DeepLearning/blob/master/papers/SSD_Single_Shot_MultiBox_Detector.pdf)
 
-[Understanding_Black-box_Predictions_via_Influence_Functions](https://github.com/modricwang/DeepLearning/blob/master/papers/Understanding_Black-box_Predictions_via_Influence_Functions.pdf)
+[Understanding Black-box Predictions via Influence Functions](https://github.com/modricwang/DeepLearning/blob/master/papers/Understanding_Black-box_Predictions_via_Influence_Functions.pdf)

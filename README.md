@@ -11,3 +11,5 @@
 [R-FCN](papers/R-FCN_Object_Detection_via_Region-based_Fully_Convolutional_Networks.pdf)
 
 [SSD](papers/SSD_Single_Shot_MultiBox_Detector.pdf)
+
+[Understanding_Black-box_Predictions_via_Influence_Functions](papers/Understanding_Black-box_Predictions_via_Influence_Functions.pdf)

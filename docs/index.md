@@ -8,7 +8,7 @@
 
 [Mimic](https://github.com/modricwang/DeepLearning/blob/master/papers/Mimic_Distilling_the_Knowledge_in_a_Neural_Network.pdf)
 
-[RCNN](https://github.com/modricwang/DeepLearning/blob/master/papers/Rich_feature_hierarchies_for_accurate_object_detection_and_semantic_segmentation)
+[RCNN](https://github.com/modricwang/DeepLearning/blob/master/papers/Rich_feature_hierarchies_for_accurate_object_detection_and_semantic_segmentation.pdf)
 
 [R-FCN](https://github.com/modricwang/DeepLearning/blob/master/papers/R-FCN_Object_Detection_via_Region-based_Fully_Convolutional_Networks.pdf)
 

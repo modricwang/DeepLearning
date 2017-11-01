@@ -10,6 +10,8 @@
 
 [RCNN](https://github.com/modricwang/DeepLearning/blob/master/papers/Rich_feature_hierarchies_for_accurate_object_detection_and_semantic_segmentation.pdf)
 
+[Fast RCNN](https://github.com/modricwang/DeepLearning/blob/master/papers/Fast_R-CNN.pdf)
+
 [R-FCN](https://github.com/modricwang/DeepLearning/blob/master/papers/R-FCN_Object_Detection_via_Region-based_Fully_Convolutional_Networks.pdf)
 
 [SSD](https://github.com/modricwang/DeepLearning/blob/master/papers/SSD_Single_Shot_MultiBox_Detector.pdf)

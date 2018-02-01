@@ -16,6 +16,8 @@
 
 [SSD](https://github.com/modricwang/DeepLearning/blob/master/papers/SSD_Single_Shot_MultiBox_Detector.pdf)
 
+[Faster RCNN](https://github.com/modricwang/DeepLearning/blob/master/papers/Faster_R-CNN_Towards_Real-Time_Object.pdf)
+
 [Understanding Black-box Predictions via Influence Functions](https://github.com/modricwang/DeepLearning/blob/master/papers/Understanding_Black-box_Predictions_via_Influence_Functions.pdf)
 
 [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://github.com/modricwang/DeepLearning/blob/master/papers/A_generative_vision_model_that_trains_with_high_data_efficiency_and_breaks_text-based_CAPTCHAs.pdf)
